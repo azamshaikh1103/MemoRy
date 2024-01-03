@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-, "components/App.tsx", "tsconfig.json", "public/tailwind.config.js"  ]
+, "src/components/App.tsx", "tsconfig.json", "public/tailwind.config.js"  ]
 }
